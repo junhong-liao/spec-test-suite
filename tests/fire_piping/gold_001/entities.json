@@ -1,0 +1,10 @@
+[
+  {
+    "id": "pipe_001",
+    "type": "pipe",
+    "material": "galvanized steel",
+    "diameter": 1.5,
+    "schedule": "40",
+    "location_page": 2
+  }
+] 

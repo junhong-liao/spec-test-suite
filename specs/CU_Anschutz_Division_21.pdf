@@ -1,0 +1,508 @@
+ <!DOCTYPE html> <html lang="en"> <head> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>
+	Not Found
+</title> <link rel="icon" type="image/png" href="/CU_favicon_16x16.png" sizes="16x16"> <link rel="icon" type="image/png" href="/CU_favicon_32x32.png" sizes="32x32"> <link rel="icon" type="image/png" href="/CU_favicon_96x96.png" sizes="96x96"> <link href="/Frontend-Assembly/Telerik.Sitefinity.Frontend/assets/dist/css/main.min-0ea90d29ad.css?package=CUBootstrap5" rel="stylesheet" type="text/css" /><link href="/Frontend-Assembly/Telerik.Sitefinity.Frontend/assets/dist/css/CUDual.min-d7fa3347e9.css?package=CUBootstrap5" rel="stylesheet" type="text/css" /><link href="/Frontend-Assembly/Telerik.Sitefinity.Frontend/assets/dist/css/CULayout04.min-7ec5300dd9.css?package=CUBootstrap5" rel="stylesheet" type="text/css" /> <script src="https://kit.fontawesome.com/905b77de1f.js" crossorigin="anonymous"></script> <link rel="stylesheet" type="text/css" href="/ResourcePackages/CUBootstrap5/assets/dist/css/aos.min.css?package=CUBootstrap5" id="aos-styles" media="print" onload="this.media='all';"> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;900&display=swap" rel="stylesheet" media="print" onload="this.media='all';"> <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script><link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" media="all" rel="stylesheet" type="text/css" /><style type="text/css" media="all">.hinge {
+  -webkit-animation-fill-mode: forwards;
+}
+
+.bounceInDown {
+  position:absolute;
+  top:0;
+}
+
+.wow img {
+  max-width: 160px;
+}
+
+.errorTitle {
+  font-size:7em;
+}
+
+@media (max-width:768px) {
+  .errorTitle {
+    font-size:5em;
+  }
+}</style><script type="text/javascript">
+  new WOW().init();
+</script><meta property="og:type" content="website"><meta name="Generator" content="Sitefinity 14.4.8147.0 DX" /><link rel="canonical" href="https://www.ucdenver.edu/error-pages/not-found" /></head> <body> <!-- Google Tag Manager --> <noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TJ3RC4"
+					height="0" width="0" style="display:none;visibility:hidden"></iframe> </noscript> <script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TJ3RC4');</script> <!-- End Google Tag Manager --> <script src="/ScriptResource.axd?d=ktXPS54N4JY6vbaCTPlT9c5F3bvDefGb6swSqK71p73PzsZT7XHhpyRxgccwn5BQwdaJiZaPHtQQgt0wwx34vI2TxVCUeECdxsiqbnyXNXdHWmwDLQnVUMciuDHAuGR-4d_kfFvZHsB0plDcL_cEKNImaYYh98JSlDgtOfoH3rnKxkd8MVrXWJcGmG7OCS0A0&amp;t=760f9f32" type="text/javascript"></script><script src="/ScriptResource.axd?d=ePnjFy9PuY6CB3GWMX-b_-GM932EDf8PbsOJh_bKsU2kv6BhP20V8hJuFah55oFS76VLtsfKWw-ncYuqB6tcv097wgsLqGoJ4o0URKg0_kEnaU8_5DxeLSk16RVgJOTtLSnKvGwKNWAlPoaUsvpSv9EU5vcfSC_gLW-e9v-J1IKQiHtKCdE5fJFHTyK5uiot0&amp;t=760f9f32" type="text/javascript"></script><script src="/ScriptResource.axd?d=Uf8BQcxRshYGUr_fjsqPCI9hQK1OGQlRGqqVYpOaERFqygATc64VEsb8P24U4ge-out1RsEVwIKH496kY_lQrqyPnJ8b07Z3ccdBv0pNr0CbXaSVUH4B8FfNlHYfLdS_zJ1OMKWSFV9bxH62vB1iNR-QzuQGpO19lYnXyyVEH3-BK0PGh0UIWfWffpMrFxvB0&amp;t=760f9f32" type="text/javascript"></script> <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script> <div class="sfPublicWrapper CUWrapper" id="PublicWrapper"> <div class="cuPublicWrapper CUHeaderWrapper" id="CUHeader"> <div class="skipContainer"><a href="#CUMain" class="skip">Skip to content</a></div> <header class="globalBar t-globalBar"> <div id="mainTopNav" class="navbar fixed-top t-mainTopNav"> <div class="container"> 
+
+<div class="t-contentBlock" >
+
+    <div class="sf-Long-text" ><div id="mainLogo"><a title="University of Colorado Denver" href="/homepage"><img src="/images/default-source/global-theme-images/dual-logo/cu-denver-dual.svg?sfvrsn=fdf802bb_6" height="28" class="d-none d-xl-inline-block" alt="University of Colorado Denver" sf-size="14340" /><img src="/images/default-source/global-theme-images/dual-logo/cu-denver-dual-short.svg?sfvrsn=a6ce02bb_4" height="28" class="d-xl-none" alt="CU Denver" sf-size="4703" /></a><img src="/images/default-source/global-theme-images/dual-logo/dual-split.svg?sfvrsn=aff802bb_4" height="28" class="d-inline-block" alt="" sf-size="357" /><a href="https://www.cuanschutz.edu/homepage" title="University of Colorado Anschutz Medical Campus"><img src="/images/default-source/global-theme-images/dual-logo/cu-anschutz-dual.svg?sfvrsn=84f802bb_6" height="28" class="d-none d-xl-inline-block" alt="University of Colorado Anschutz Medical Campus" sf-size="10749" /><img src="/images/default-source/global-theme-images/dual-logo/cu-anschutz-dual-short.svg?sfvrsn=43cd02bb_4" height="28" class="d-xl-none" alt="CU Anschutz" sf-size="2395" /></a></div></div>    
+    
+</div>
+<div id="ContentplaceholderTop_T65C3B82F022_Col00" class="sf_colsIn t-globalLinksContainer" data-sf-element="Container" data-placeholder-label="Global Link Flex Container"><div id="ContentplaceholderTop_T65C3B82F021_Col00" class="sf_colsIn t-globalLinksAndSearch" data-sf-element="Container" data-placeholder-label="Fluid Container">
+
+
+<ul id="topNav" class="t-topNav list-unstyled list-inline">
+    <li class="u-header-link">
+     
+                <a target=_blank href="http://myemail.ucdenver.edu/">
+                    <span class="t-feat-link-text">Webmail</span><svg class="t-external-feat-Link fa-lock" aria-hidden="true" aria-label="opens in a new window to password protected site" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M144 144v48H304V144c0-44.2-35.8-80-80-80s-80 35.8-80 80zM80 192V144C80 64.5 144.5 0 224 0s144 64.5 144 144v48h16c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V256c0-35.3 28.7-64 64-64H80z"/></svg>
+                </a>
+
+    </li>
+    <li class="u-header-link">
+     
+                <a target=_blank href="https://portal.prod.cu.edu/UCDAccessFedAuthLogin.html">
+                    <span class="t-feat-link-text">UCD Access</span><svg class="t-external-feat-Link fa-lock" aria-hidden="true" aria-label="opens in a new window to password protected site" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M144 144v48H304V144c0-44.2-35.8-80-80-80s-80 35.8-80 80zM80 192V144C80 64.5 144.5 0 224 0s144 64.5 144 144v48h16c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V256c0-35.3 28.7-64 64-64H80z"/></svg>
+                </a>
+
+    </li>
+    <li class="u-header-link">
+     
+                <a target=_blank href="https://ucdenver.instructure.com/">
+                    <span class="t-feat-link-text">Canvas</span><svg class="t-external-feat-Link fa-lock" aria-hidden="true" aria-label="opens in a new window to password protected site" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M144 144v48H304V144c0-44.2-35.8-80-80-80s-80 35.8-80 80zM80 192V144C80 64.5 144.5 0 224 0s144 64.5 144 144v48h16c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V256c0-35.3 28.7-64 64-64H80z"/></svg>
+                </a>
+
+    </li>
+    <li class="t-ql-toggle">
+        <a href="javascript:void(0)">
+            <svg class="fa-times-circle" aria-label="minimize" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM175 175c9.4-9.4 24.6-9.4 33.9 0l47 47 47-47c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-47 47 47 47c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-47-47-47 47c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l47-47-47-47c-9.4-9.4-9.4-24.6 0-33.9z"/></svg>
+            <span class="t-feat-link-text">Quick Links</span>
+            <svg class="fa-caret-down" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 320 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M137.4 374.6c12.5 12.5 32.8 12.5 45.3 0l128-128c9.2-9.2 11.9-22.9 6.9-34.9s-16.6-19.8-29.6-19.8L32 192c-12.9 0-24.6 7.8-29.6 19.8s-2.2 25.7 6.9 34.9l128 128z"/></svg>
+        </a>
+    </li>
+</ul>
+
+
+
+<input type="hidden" data-sf-role="searchSiteUrl" value="www.ucdenver.edu" />
+<input type="hidden" data-sf-role="searchSiteDomain" value="www.ucdenver.edu" />
+<input type="hidden" data-sf-role="searchSiteDomainName" value="CU Denver" />
+<input type="hidden" data-sf-role="searchDomainFiltersHidden" value="False" />
+<input type="hidden" data-sf-role="searchAllUniversitySitesFilterHidden" value="False" />
+<div class="t-contentBlock">
+	<div class="t-searchLarge">
+		<div id="search" class="input-group custom-search-form">
+			<label class="t-searchLabel visuallyhidden" for="searchWords">Search</label><input name="query" type="text" aria-label="search" id="searchWords" placeholder="Search" autocomplete="off" />
+			<div class="t-searchDomainOptionContainer ">
+				<div class="t-searchDomainRadioContainer">
+					<input type="radio" id="current-domain" name="domain-selection" value="domain" /><label for="current-domain">CU Denver</label>
+				</div>
+					<div class="t-searchDomainRadioContainer">
+						<input type="radio" id="all-sites" name="domain-selection" value="all-sites" /><label for="all-sites">All University Sites</label>
+					</div>
+			</div>
+			<button type="submit" class="j-searchMain">Submit</button><svg class="j-search-icon" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
+			<div class="t-searchBack">&nbsp;</div>
+			</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+</div>
+
+</div>
+
+
+ </div> <div class="u-mask"> 
+
+<div class="t-contentBlock j-ql-content-block" >
+
+    <div class="sf-Long-text" ><div id="quickLinks" class="t-quickLinks" aria-label="Quick links navigation" aria-hidden="true" aria-expanded="false">
+<div class="container">
+<div class="row">
+<div class="col-md-12 j-global-links d-md-flex">&nbsp;</div>
+</div>
+<div class="row">
+<div class="col-lg-3">
+<h3>Tools &amp; Resources</h3>
+<ul class="list-unstyled">
+    <li><a href="https://directory.ucdenver.edu/">Campus Directory</a></li>
+    <li><a href="https://www.ucdenver.edu/AZIndex">A-Z Index</a></li>
+    <li><a href="https://www.ucdenver.edu/offices/human-resources">Human Resources</a></li>
+    <li><a href="https://www.ucdenver.edu/policies">University Policies</a></li>
+    <li><a href="https://library.auraria.edu/">Auraria Library</a></li>
+    <li><a href="https://library.cuanschutz.edu">Strauss Health Sciences Library</a></li>
+</ul>
+</div>
+<div class="col-lg-6">
+<h3>Schools &amp; Colleges</h3>
+<div class="row">
+<div class="col-lg-6">
+<h4>CU Denver</h4>
+<ul class="list-unstyled">
+    <li><a href="https://architectureandplanning.ucdenver.edu/">College of Architecture and Planning</a></li>
+    <li><a href="https://artsandmedia.ucdenver.edu/">College of Arts &amp; Media</a></li>
+    <li><a href="https://business.ucdenver.edu/">Business School</a></li>
+    <li><a href="https://education.ucdenver.edu">School of Education &amp; Human Development</a></li>
+    <li><a href="https://engineering.ucdenver.edu">College of Engineering, Design and Computing</a></li>
+    <li><a href="https://clas.ucdenver.edu/">College of Liberal Arts and Sciences</a></li>
+    <li><a href="https://publicaffairs.ucdenver.edu/">School of Public Affairs</a></li>
+</ul>
+</div>
+<div class="col-lg-6">
+<h4>CU Anschutz Medical Campus</h4>
+<ul class="list-unstyled">
+    <li><a href="https://dental.cuanschutz.edu/">School of Dental Medicine</a></li>
+    <li><a href="https://graduateschool.cuanschutz.edu/">Graduate School</a></li>
+    <li><a href="https://medschool.cuanschutz.edu/">School of Medicine</a></li>
+    <li><a href="https://nursing.cuanschutz.edu/">College of Nursing</a></li>
+    <li><a href="https://pharmacy.cuanschutz.edu/">Skaggs School of Pharmacy and Pharmaceutical Sciences</a></li>
+    <li><a href="https://coloradosph.cuanschutz.edu">Colorado School of Public Health</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-3">
+<h3>CU Campuses</h3>
+<ul class="list-unstyled">
+    <li><a href="https://www.cuanschutz.edu">CU Anschutz Medical Campus</a></li>
+    <li><a href="https://www.colorado.edu">CU Boulder</a></li>
+    <li><a href="https://www.uccs.edu">CU Colorado Springs</a></li>
+    <li><a href="https://www.ucdenver.edu">CU Denver</a></li>
+    <li><a href="https://online.cu.edu">CU Online</a></li>
+    <li><a href="https://www.cu.edu">CU System</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!--maintain separately--></div>    
+    
+</div>
+ </div> </div> </header> <!--maintain seperately this had be to be rebuilt, the search cannot be wrapped in the ul--> <!--maintain seperately--> 
+
+
+
+
+
+<div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<section class="localHeader t-localHeader t-noTextHide" role="banner">
+    <div class="container">
+        <div class="row localHeaderRow">
+            <div class="col-lg-12 col-10">
+
+
+            </div>
+
+                        <div class="col-2 navigationToggleContainer"></div>
+
+
+        </div>
+    </div>
+</section> </div> <div class="cuPublicWrapper CUMainWrapper CUContentTwoWrapper u-ContentTwo" id="CUTemp"> 
+
+ </div> <div class="cuPublicWrapper CUMainWrapper u-RP" id="CUMain"> <div class="container-fluid t-fullWidthContainer t-CUHeroContainer"> <div class="row"> 
+
+
+
+
+ </div> </div> <div class="container t-breadCrumbContainer" id="CUBreadCols"> <div class="row"> <div class="col-lg-12"> 
+ </div> </div> </div> <main> <div class="container-fluid t-fullWidthContainer t-CUHeroContainer"> <div class="row"> 
+ </div> </div> <div class="container t-CUMainContainer"> <div class="row reorder t-CUMobileCols"> <div class="col-12 col-lg-9 u-CU-col-lg-push-3 t-CUWideCol"> 
+ <div class="row t-CUSubCols"> <div class="col-lg-8 t-CUSubWideCol"> 
+ </div> <div class="col-lg-4 t-CUSubNarrowCol"> 
+ </div> </div> </div> <div class="col-12 col-lg-3 u-CU-col-lg-pull-9 t-CUNarrowCol"> 
+ </div> </div> <div class="row t-mainContainer"> 
+<div class="t-DBmainContainerRow" data-sf-element="Row">
+    <div id="MainContainer_TD703DFC4001_Col00" class="sf_colsIn t-DBmainContainerCol" data-sf-element="Column 1" data-placeholder-label="MainContainer">
+<div class="t-contentBlock" >
+
+    <div class="sf-Long-text" >&nbsp;</div>    
+    
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="MainContainer_C002_Col00" class="sf_colsIn bootstrap_5 col-lg-8" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="row">
+
+	<div class="col-md-3 hidden-xs hidden-sm">
+		<div class="wow hinge" data-wow-delay="2.55s">
+  		<div class="wow shake" data-wow-delay="1s" data-wow-duration="1s">
+  			<div class="wow shake" data-wow-delay="2s" data-wow-duration=".5s">
+  					<img class="img-responsive" src="https://www.ucdenver.edu/images/default-source/global-theme-images/cu_logo.png?Status=Temp&sfvrsn=adc180b8_2"/>
+				</div>     
+			</div>
+    </div>
+    
+    <div class="wow bounceInDown" data-wow-delay="9s" data-wow-duration="1s">
+			<img class="img-responsive" src="https://www.ucdenver.edu/images/default-source/global-theme-images/cu_logo.png?Status=Temp&sfvrsn=adc180b8_2"/>
+		</div>
+    
+  </div>
+  
+  <div class="col-md-3 hidden-sm">        
+		
+  </div>
+  
+  <div class="col-md-9">
+  	<h1 class="errorTitle">Uh oh.</h1>
+  </div>
+  
+</div>
+<!--/.row-->
+<div class="t-contentBlock" >
+
+    <div class="sf-Long-text" ><h2>You&rsquo;re looking for a page that doesn&rsquo;t currently exist.</h2><h3 class="h--alt">(At least physically.) Theoretically, it may still exist! We're researching that.</h3><p>Want to <a href="https://research.cuanschutz.edu/">learn more about what we're researching</a>?</p><p>(Error 404)</p></div>    
+    
+</div>
+
+    </div>
+    <div id="MainContainer_C002_Col01" class="sf_colsIn bootstrap_5 col-lg-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+<div class="card img-thumbnail t-cardStandard well t-has-link" role="complementary">
+            <a class="t-cardLinkFull" href="https://www.ucdenver.edu/atweb/contact/website-feedback" aria-labelledby="heading-6322622a-27f6-4424-933a-f94210a2933e" target=_blank></a>
+
+    <div class="mainContentCard">
+
+        <div class="card-body">
+                <h3 class="card-title" id="heading-6322622a-27f6-4424-933a-f94210a2933e">Still can't find what you're looking for?</h3>
+                            <p class="t-cardStandardTitle">Let us know.</p>
+                            <p><a href="https://www.ucdenver.edu/atweb/contact/website-feedback" class="btn btn-primary" role="button" target=_blank>Website Feedback<span class="t-externalLink fa-regular fa-external-link" aria-hidden="true"></span></a></p>
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+
+    </div>
+</div>
+ </div> </div> </main> </div> <div class="cuPublicWrapper CUFooterWrapper" id="CUFooter">
+
+
+<div class="ankle t-ankle t-noSocialMedia">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="linkWrapper">
+                    <div class="linkArea row">
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    <button id="t-backToTop" title="Back to top" data-aos-offset="1500" data-aos="fade-left">
+    <svg class="fa-arrow-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M203.3 36.7c-6.2-6.2-16.4-6.2-22.6 0l-176 176c-6.2 6.2-6.2 16.4 0 22.6s16.4 6.2 22.6 0L176 86.6V464c0 8.8 7.2 16 16 16s16-7.2 16-16V86.6L356.7 235.3c6.2 6.2 16.4 6.2 22.6 0s6.2-16.4 0-22.6l-176-176z"/></svg>Top</button>
+    <script>
+        if (navigator.userAgent.match(/(iPod|iPhone|iPad)/)) {
+            $('body').css("cssText", "height: initial !important;");
+        }
+
+
+
+        $(document).ready(function () {
+            document.querySelector("#aos-styles").removeAttribute('disabled');
+
+            var pageLength = $(document).height();
+            var clientViewport = $(window).height();
+            var backToTopButton = $('#t-backToTop');
+
+            function updateOffset() {
+                $('#t-backToTop').attr('data-aos-offset', clientViewport);
+                if (typeof AOS !== 'undefined') { AOS.refresh(); };
+            }
+
+            function hideButton() {
+                $('#t-backToTop').addClass('hide');
+            }
+
+            function showButton() {
+                $('#t-backToTop').removeClass('hide');
+            }
+
+            backToTopButton.click(function (e) {
+                e.preventDefault();
+                $("html, body").animate({ scrollTop: 0 }, 300);
+                return false;
+            });
+
+            backToTopButton.keypress(function (event) {
+
+                var keycode = (event.keyCode ? event.keyCode : event.which);
+                if (keycode == '13') {
+                    $(".skip").focus();
+                }
+                event.stopPropagation();
+            });
+
+            // Initialize AOS Animation
+            if (typeof AOS !== 'undefined') {
+                AOS.init({
+                    duration: 500
+                });
+            }
+            // Make sure the page is more than 4 pages long
+            if ((pageLength / clientViewport) >= 4) {
+                updateOffset();
+            }
+            else {
+                hideButton();
+            }
+
+            $(window).on('load', function () {
+                if (pageLength != $(document).height()) {
+                    pageLength = $(document).height();
+                    clientViewport = $(window).height();
+
+                    if ((pageLength / clientViewport) >= 4) {
+                        updateOffset();
+                        showButton();
+                    }
+                    else {
+                        hideButton();
+                    }
+
+                }
+            });
+
+            // Update offset on window resize
+            $(window).resize(function () {
+                pageLength = $(document).height();
+                clientViewport = $(window).height();
+
+                if ((pageLength / clientViewport) >= 4) {
+                    updateOffset();
+                    showButton();
+                }
+                else {
+                    hideButton();
+                }
+            });
+        });
+
+
+    </script>
+
+<div class="t-contentBlock" >
+
+    <div class="sf-Long-text" ><footer class="t-footer" role="contentinfo"><div class="footerContainer"><ul role="list" aria-label="footer navigation"><li role="listitem"><a href="/about-cu-denver/contact-us">Contact Us</a></li><li role="listitem"><a href="/atweb/contact/website-feedback">Website Feedback</a></li><li role="listitem"><a href="https://www.cu.edu/" data-sf-ec-immutable="">CU System</a></li><li role="listitem"><a href="/legal/privacy-policy">Privacy Policy</a></li><li role="listitem"><a href="/legal">Terms of Use</a></li><li role="listitem"><a href="/accessibility">Accessibility</a></li><li role="listitem"><a href="https://www.hlcommission.org/component/directory/?Action=ShowBasic&amp;Itemid=&amp;instid=1040" data-sf-ec-immutable="">Accreditation</a></li><li role="listitem"><a href="https://www.cu.edu/cu-careers/" data-sf-ec-immutable="">Employment</a></li><li role="listitem"><a href="https://giving.cu.edu/" data-sf-ec-immutable="">Give Now</a></li></ul><div class="clearfix">&nbsp;</div><hr /><div class="u-foottextwrap"><p>&copy; 2025&nbsp;<a href="https://www.cu.edu/regents/" data-sf-ec-immutable=""><strong>The Regents of the University of Colorado</strong></a>, a body corporate. All rights reserved.</p><p>Accredited by the <a href="https://www.hlcommission.org/component/directory/?Action=ShowBasic&amp;Itemid=&amp;instid=1040" data-sf-ec-immutable=""> <strong> Higher Learning Commission</strong></a>. All trademarks are registered property of the University. Used by
+                permission only.</p></div></div></footer></div>    
+    
+</div>
+
+
+<div class="t-loginWrapper">
+    <span class="t-loginLink t-loginLinkColors" role="link" tabindex="0" data-href="/external-login?ReturnUrl=http%3a%2f%2fwww.ucdenver.edu%2ferror-pages%2fnot-found" id="front-end-sign-in">CMS Login</span>
+</div></div> <div class="cuPublicWrapper CUSignInWrapper" id="CUSignIn">
+
+
+
+
+<div>
+
+</div>
+
+
+
+<div>
+
+</div>
+
+
+
+<div>
+
+</div></div> <div id="mobileFeaturedLinks" class="j-featured-links-mobile"> 
+
+<!--t-global-icon-nav-->
+    <div class="j-ql-cta-nav" id="bigThreeFeaturedMobile">
+
+            <!--u-footer-link -->
+        <aside class="ctaButton fontSmall fontRegular paddingLarge">
+
+
+        <a target=_blank href="http://myemail.ucdenver.edu/">
+            <p class="t-ctaHeader">
+                Webmail
+                <svg class="fa-lock" aria-hidden="true" aria-label="opens in a new window to password protected site" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M144 144v48H304V144c0-44.2-35.8-80-80-80s-80 35.8-80 80zM80 192V144C80 64.5 144.5 0 224 0s144 64.5 144 144v48h16c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V256c0-35.3 28.7-64 64-64H80z"/></svg>
+            </p>
+        </a>
+ 
+        
+
+             
+
+        </aside>
+            <!--u-footer-link -->
+        <aside class="ctaButton fontSmall fontRegular paddingLarge">
+
+
+        <a target=_blank href="https://portal.prod.cu.edu/UCDAccessFedAuthLogin.html">
+            <p class="t-ctaHeader">
+                UCD Access
+                <svg class="fa-lock" aria-hidden="true" aria-label="opens in a new window to password protected site" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M144 144v48H304V144c0-44.2-35.8-80-80-80s-80 35.8-80 80zM80 192V144C80 64.5 144.5 0 224 0s144 64.5 144 144v48h16c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V256c0-35.3 28.7-64 64-64H80z"/></svg>
+            </p>
+        </a>
+ 
+        
+
+             
+
+        </aside>
+            <!--u-footer-link -->
+        <aside class="ctaButton fontSmall fontRegular paddingLarge">
+
+
+        <a target=_blank href="https://ucdenver.instructure.com/">
+            <p class="t-ctaHeader">
+                Canvas
+                <svg class="fa-lock" aria-hidden="true" aria-label="opens in a new window to password protected site" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M144 144v48H304V144c0-44.2-35.8-80-80-80s-80 35.8-80 80zM80 192V144C80 64.5 144.5 0 224 0s144 64.5 144 144v48h16c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V256c0-35.3 28.7-64 64-64H80z"/></svg>
+            </p>
+        </a>
+ 
+        
+
+             
+
+        </aside>
+
+    </div>
+<div class="t-contentBlock" >
+
+    <div class="sf-Long-text" ><div id="searchBottom" aria-label="search">
+<label class="t-searchLabel visuallyhidden" for="searchWordsBottom">Search</label><input type="search" placeholder="Search" id="searchWordsBottom" name="query" autocomplete="off" />
+<button type="submit" class="j-searchMobile">Submit</button><span class="fas fa-search" aria-hidden="true"></span>
+</div></div>    
+    
+</div>
+ </div> </div> <script src="/Frontend-Assembly/SitefinityWebApp/assets/dist/js/aos.min.js?package=CUBootstrap5" type="text/javascript"></script> <script>
+        AOS.init({
+            duration: 500
+        });
+    </script> <div hidden> <span id="new-window-1">Opens in a new window</span> <span id="new-window-2">Opens document in a new window</span> </div> <div class="visually-hidden" id="aria-live-update" aria-live="polite" aria-atomic="true"></div> <noscript><div class="fixed-bottom p-3 combo-CU_text-white-bg-black">Javascript is disabled in your web browser. This site works best when Javascript is enabled.</div></noscript>  <script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend/assets/dist/js/CUBase.min-fd9221e871.js?package=CUBootstrap5" type="text/javascript"></script> <script type="text/javascript">
+        /*<![CDATA[*/
+        (function () {
+            var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+            sz.src = '//siteimproveanalytics.com/js/siteanalyze_66356229.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+                    /*]]>*/
+    </script> </body> </html>

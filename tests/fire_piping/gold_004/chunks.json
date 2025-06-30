@@ -1,0 +1,32 @@
+[
+  {
+    "title": "System Overview - Large Commercial Building",
+    "start_page": 1,
+    "end_page": 3
+  },
+  {
+    "title": "Zone 1 - East Wing Specifications",
+    "start_page": 4,
+    "end_page": 8
+  },
+  {
+    "title": "Zone 2 - West Wing Specifications", 
+    "start_page": 9,
+    "end_page": 13
+  },
+  {
+    "title": "Zone 3 - Central Core Specifications",
+    "start_page": 14,
+    "end_page": 18
+  },
+  {
+    "title": "Main Distribution System",
+    "start_page": 19,
+    "end_page": 22
+  },
+  {
+    "title": "Connection Details and Fittings",
+    "start_page": 23,
+    "end_page": 25
+  }
+] 

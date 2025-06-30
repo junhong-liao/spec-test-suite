@@ -1,0 +1,50 @@
+[
+  {
+    "id": "pipe_005_001",
+    "type": "pipe",
+    "material": "galvanized steel",
+    "diameter": 3.0,
+    "schedule": "40",
+    "location_page": 5
+  },
+  {
+    "id": "pipe_005_002",
+    "type": "pipe",
+    "material": "copper type l",
+    "diameter": 1.5,
+    "schedule": "STD",
+    "location_page": 8
+  },
+  {
+    "id": "pipe_005_003",
+    "type": "pipe",
+    "material": "pvc schedule 80",
+    "diameter": 2.0,
+    "schedule": "80",
+    "location_page": 11
+  },
+  {
+    "id": "fitting_005_001",
+    "type": "fitting",
+    "material": "brass",
+    "diameter": 3.0,
+    "schedule": "40",
+    "location_page": 14
+  },
+  {
+    "id": "fitting_005_002",
+    "type": "fitting",
+    "material": "stainless steel",
+    "diameter": 1.5,
+    "schedule": "STD",
+    "location_page": 14
+  },
+  {
+    "id": "connection_005_001",
+    "type": "connection",
+    "material": "bronze",
+    "diameter": 2.0,
+    "schedule": "80",
+    "location_page": 15
+  }
+] 

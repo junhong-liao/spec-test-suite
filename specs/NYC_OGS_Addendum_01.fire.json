@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "pdf_name": "NYC_OGS_Addendum_01.pdf",
+    "pdf_size_mb": 0.32,
+    "total_pages": 0,
+    "generation_date": "2025-06-30 13:38:22",
+    "parser_version": "1.0.0",
+    "manual_validation": false,
+    "notes": ""
+  },
+  "chunks": [
+    {
+      "title": "FIRE PROTECTION SYSTEM OVERVIEW",
+      "start_page": 1,
+      "end_page": 3
+    },
+    {
+      "title": "MATERIAL SPECIFICATIONS",
+      "start_page": 3,
+      "end_page": 5
+    },
+    {
+      "title": "INSTALLATION REQUIREMENTS",
+      "start_page": 7,
+      "end_page": 9
+    }
+  ],
+  "entities": [
+    {
+      "id": "pipe_001",
+      "type": "pipe",
+      "material": "galvanized steel",
+      "diameter": 4.0,
+      "schedule": "40",
+      "location_page": 5
+    },
+    {
+      "id": "pipe_002",
+      "type": "pipe",
+      "material": "galvanized steel",
+      "diameter": 2.5,
+      "schedule": "40",
+      "location_page": 6
+    }
+  ],
+  "stats": {
+    "total_chunks": 3,
+    "total_entities": 2,
+    "parse_time_seconds": 0.0,
+    "throughput_mb_per_sec": 537.48
+  }
+}

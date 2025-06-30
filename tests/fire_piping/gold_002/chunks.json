@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Project Overview",
+    "start_page": 1,
+    "end_page": 2
+  },
+  {
+    "title": "Fire Protection System Design",
+    "start_page": 3,
+    "end_page": 5
+  },
+  {
+    "title": "Material Specifications - Floors 1-3",
+    "start_page": 6,
+    "end_page": 8
+  },
+  {
+    "title": "Material Specifications - Floors 4-6", 
+    "start_page": 9,
+    "end_page": 11
+  },
+  {
+    "title": "Installation Requirements",
+    "start_page": 12,
+    "end_page": 15
+  },
+  {
+    "title": "Testing and Commissioning",
+    "start_page": 16,
+    "end_page": 18
+  }
+] 

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "pipe_004_001",
+    "type": "pipe",
+    "material": "galvanized steel",
+    "diameter": 8.0,
+    "schedule": "40",
+    "location_page": 5
+  },
+  {
+    "id": "pipe_004_002",
+    "type": "pipe",
+    "material": "galvanized steel", 
+    "diameter": 6.0,
+    "schedule": "40",
+    "location_page": 6
+  },
+  {
+    "id": "pipe_004_003",
+    "type": "pipe",
+    "material": "galvanized steel",
+    "diameter": 4.0,
+    "schedule": "40",
+    "location_page": 10
+  },
+  {
+    "id": "valve_004_001",
+    "type": "valve",
+    "material": "bronze",
+    "diameter": 8.0,
+    "schedule": "40",
+    "location_page": 20
+  },
+  {
+    "id": "valve_004_002",
+    "type": "valve",
+    "material": "bronze",
+    "diameter": 6.0,
+    "schedule": "40",
+    "location_page": 21
+  },
+  {
+    "id": "sprinkler_004_001",
+    "type": "sprinkler",
+    "material": "brass",
+    "diameter": 0.5,
+    "schedule": "40",
+    "location_page": 7
+  },
+  {
+    "id": "sprinkler_004_002",
+    "type": "sprinkler",
+    "material": "brass",
+    "diameter": 0.75,
+    "schedule": "40",
+    "location_page": 11
+  },
+  {
+    "id": "fitting_004_001",
+    "type": "fitting",
+    "material": "galvanized steel",
+    "diameter": 8.0,
+    "schedule": "40",
+    "location_page": 24
+  }
+] 

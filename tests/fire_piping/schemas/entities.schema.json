@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Entities Schema",
+  "description": "Schema for validating entity extraction ground truth data",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Unique identifier for the entity"
+      },
+      "type": {
+        "type": "string",
+        "enum": ["pipe", "fitting", "valve", "sprinkler", "hose", "connection"],
+        "description": "Type of fire piping component"
+      },
+      "material": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Material of the component"
+      },
+      "diameter": {
+        "oneOf": [
+          {"type": "number", "minimum": 0},
+          {"type": "string", "pattern": "^[0-9]+(\\.5)?(-[0-9]+/[0-9]+)?\\\"?$"}
+        ],
+        "description": "Diameter of the component in inches"
+      },
+      "schedule": {
+        "type": "string",
+        "pattern": "^(10|20|30|40|80|120|160|STD|XS|XXS)$",
+        "description": "Pipe schedule specification"
+      },
+      "location_page": {
+        "type": "integer",
+        "minimum": 1,
+        "description": "Page number where entity is located"
+      }
+    },
+    "required": ["id", "type", "material", "diameter", "location_page"],
+    "additionalProperties": false
+  },
+  "minItems": 1
+} 

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "pipe_003_001",
+    "type": "pipe",
+    "material": "stainless steel",
+    "diameter": 1.25,
+    "schedule": "10",
+    "location_page": 2
+  },
+  {
+    "id": "pipe_003_002",
+    "type": "pipe", 
+    "material": "copper type l",
+    "diameter": 0.75,
+    "schedule": "STD",
+    "location_page": 3
+  },
+  {
+    "id": "fitting_003_001",
+    "type": "fitting",
+    "material": "pvc schedule 80",
+    "diameter": 2.5,
+    "schedule": "80",
+    "location_page": 6
+  },
+  {
+    "id": "connection_003_001",
+    "type": "connection",
+    "material": "brass",
+    "diameter": 0.5,
+    "schedule": "XS",
+    "location_page": 9
+  }
+] 
